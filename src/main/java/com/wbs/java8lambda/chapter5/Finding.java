@@ -1,6 +1,6 @@
 package com.wbs.java8lambda.chapter5;
 
-import com.wbs.java8lambda.chapter4.Dish;
+import com.wbs.java8lambda.entity.Dish;
 
 import java.util.Optional;
 

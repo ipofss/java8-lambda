@@ -1,5 +1,7 @@
 package com.wbs.java8lambda.chapter4;
 
+import com.wbs.java8lambda.entity.Dish;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;

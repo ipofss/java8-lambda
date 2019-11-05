@@ -1,4 +1,4 @@
-package com.wbs.java8lambda.chapter4;
+package com.wbs.java8lambda.entity;
 
 /**
  * TODO
