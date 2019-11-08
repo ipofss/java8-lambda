@@ -21,5 +21,7 @@ public class Peek {
                 .limit(3)
                 .peek(x -> System.out.println("after limit:" + x))
                 .collect(Collectors.toList());
+
+        System.out.println(result);
     }
 }
